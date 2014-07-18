@@ -1,5 +1,6 @@
 base
 knitr
 lattice
+markdown
 plyr
 xtable
